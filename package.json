@@ -1,0 +1,23 @@
+{
+  "name": "grep",
+  "version": "1.0.0",
+  "description": "<br>",
+  "main": "my_grep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wstewarttennes/grep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wstewarttennes/grep/issues"
+  },
+  "homepage": "https://github.com/wstewarttennes/grep#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
